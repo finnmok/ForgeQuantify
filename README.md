@@ -1,5 +1,5 @@
 # MasterSheet with Links for Weeks 1-6 
-# (Items Attached are My Documents I am Allowed to Share on Github)
+# (Items Attached are Documents I am Allowed to Share on Github)
 
 ## Week 1:
 [Financial Statements Terms and Definitions](https://docs.google.com/document/u/1/d/e/2PACX-1vT50iZAAGffAUThhAB1AtxBXEfZ2azL2iqKUw26seNclw3qpw4w8OmP0-oeANWSV4ICaqxUCXjiUOEx/pub)
